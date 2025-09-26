@@ -22,4 +22,3 @@ Describe test strategy, coverage, and any manual verification steps.
 - [ ] I updated docs (README/CHANGELOG) if needed.
 - [ ] I followed project coding standards/linting.
 - [ ] I’ve assigned reviewers and set labels/milestones as appropriate.
-
